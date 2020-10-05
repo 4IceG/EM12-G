@@ -12,6 +12,8 @@ AT+QCFG=”Band” < Current bands config
 AT+CSQ < Check signal strength
 
 AT+QCAINFO < CA Info
+AT+QNWINFO
+AT+QENG="servingcell"
 
 #Change scan mode
 AT+QCFG="nwscanmode",0,1 < Scan all modes
