@@ -1,1 +1,70 @@
-# EM12-G
+# LTE-A EM12-G
+
+Quectel EM12-G is LTE Advanced category 12 module optimized specially for M2M and IoT applications. Adopting the 3GPP Rel. 12 LTE technology, it delivers M2M-optimized speeds of 600Mbps downlink and 150Mbps uplink peak data rates.
+
+## AT commands
+``` bash
+#All bands:
+AT+QCFG="band",0,42000000003300185a,1
+
+AT+QNWINFO < Current band in use
+AT+QCFG=”Band” < Current bands config
+AT+CSQ < Check signal strength
+
+AT+QCAINFO < CA Info
+
+#Change scan mode
+AT+QCFG="nwscanmode",0,1 < Scan all modes
+AT+QCFG="nwscanmode",1,1 < GSM only
+AT+QCFG="nwscanmode",2,1 < WCDMA only
+AT+QCFG="nwscanmode",3,1 < 4G-LTE only
+
+#Set Connection Modes
+AT+QCFG="usbnet",0 - QMI/PPP/Default
+AT+QCFG="usbnet",1 - ECM
+AT+QCFG="usbnet",2 - MBIM
+
+#Factory reset
+AT&F
+AT&F1
+AT+CFUN=1
+
+AT+CFUN=0 - Turn off modem
+
+#Band_value - Band#
+1 - LTE BC1
+2 - LTE BC2
+4 - LTE BC3
+8 - LTE BC4
+10 - LTE BC5
+20 - LTE BC6
+40 - LTE BC7
+80 - LTE BC8
+100 - LTE BC9
+200 - LTE BC10
+400 - LTE BC11
+800 - LTE BC12
+1000 - LTE BC13
+2000 - LTE BC14
+10000 - LTE BC17
+20000 - LTE BC18
+40000 - LTE BC19
+80000 - LTE BC20
+100000 - LTE BC21
+1000000 - LTE BC25
+2000000 - LTE BC26
+8000000 - LTE BC28
+100000000 - LTE BC33
+200000000 - LTE BC34
+400000000 - LTE BC35
+800000000 - LTE BC36
+1000000000 - LTE BC37
+2000000000 - LTE BC38
+4000000000 - LTE BC39
+8000000000 - LTE BC40
+10000000000 - LTE BC41
+20000000000 - LTE BC42
+40000000000 - LTE BC43
+20000000000000000 - LTE BC66
+400000000000000000 - LTE BC71
+```
