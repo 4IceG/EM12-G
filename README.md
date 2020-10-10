@@ -1,5 +1,7 @@
 # LTE-A EM12-G
 
+![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/20201001.jpg)
+
 Quectel EM12-G is LTE Advanced category 12 module optimized specially for M2M and IoT applications. Adopting the 3GPP Rel. 12 LTE technology, it delivers M2M-optimized speeds of 600Mbps downlink and 150Mbps uplink peak data rates.
 
 ## AT commands
