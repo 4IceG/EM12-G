@@ -1,8 +1,5 @@
 # LTE-A EM12-G
 
-![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/Quectel_EM12-G_LTE-A_Specification%20V1.1-1.png)
-![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/Quectel_EM12-G_LTE-A_Specification%20V1.1-2.png)
-
 ![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/20201001.jpg)
 
 ## Firmware & QFlash_V4.18 download:
@@ -78,3 +75,5 @@ AT+CFUN=0 - Turn off modem
 20000000000000000 - LTE BC66
 400000000000000000 - LTE BC71
 ```
+![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/Quectel_EM12-G_LTE-A_Specification%20V1.1-1.png)
+![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/Quectel_EM12-G_LTE-A_Specification%20V1.1-2.png)
