@@ -5,8 +5,10 @@
 
 ![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/20201001.jpg)
 
-## Firmware download:
+## Firmware & QFlash_V4.18 download:
 <a href="http://www.ofmodemsandmen.com/firmware/EM12GPAR01A21M4G_01.001.01.001.zip" title="Firmware EM12GPAR01A21M4G_01.001.01.001.zip">Firmware EM12GPAR01A21M4G_01.001.01.001.zip</a>
+
+<a href="https://drive.google.com/file/d/1RxYTDpxjcLEUSPtSRoa5lkxE_8eJMAeb/view?usp=sharing" title="QFlash_V4.18">QFlash_V4.18</a>
 
 ## AT commands
 ``` bash
