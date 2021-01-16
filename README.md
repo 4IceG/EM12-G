@@ -5,6 +5,9 @@
 
 ![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/20201001.jpg)
 
+## Firmware download:
+<a href="http://www.ofmodemsandmen.com/firmware/EM12GPAR01A21M4G_01.001.01.001.zip" title="Firmware EM12GPAR01A21M4G_01.001.01.001.zip">Firmware EM12GPAR01A21M4G_01.001.01.001.zip</a>
+
 ## AT commands
 ``` bash
 #All bands:
