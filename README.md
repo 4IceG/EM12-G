@@ -9,8 +9,6 @@
 
 <a href="https://drive.google.com/file/d/1RxYTDpxjcLEUSPtSRoa5lkxE_8eJMAeb/view?usp=sharing" title="QFlash_V4.18">QFlash_V4.18</a>
 
-EM12GPAR01A21M4G_01.004.01.004.zip
-
 ## AT commands
 ``` bash
 #All bands:
