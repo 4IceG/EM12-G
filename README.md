@@ -7,7 +7,11 @@
 
 <a href="https://drive.google.com/file/d/124LQr3dZvyNPtNkrwYIhrZfwgXYnYuIR/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.004.01.004.zip">Firmware EM12GPAR01A21M4G_01.004.01.004.zip</a>
 
+<a href="https://drive.google.com/file/d/1rSOZlNmB2hYXegyrTjYkDJ3V0mC40qsH/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_BETA1022_01.005.01.005.zip">Firmware EM12GPAR01A21M4G_BETA1022_01.005.01.005.zip</a>
+
 <a href="https://drive.google.com/file/d/1RxYTDpxjcLEUSPtSRoa5lkxE_8eJMAeb/view?usp=sharing" title="QFlash_V4.18">QFlash_V4.18</a>
+
+<a href="https://drive.google.com/file/d/1xVw5IBowlKn7HPqfyYfoZdBx1p5Xs7aU/view?usp=sharing" title="QCOM_V1.6">QCOM_V1.6</a>
 
 ## AT commands
 ``` bash
