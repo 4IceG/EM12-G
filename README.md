@@ -5,13 +5,19 @@
 ## Firmware & QFlash_V4.18 download:
 <a href="http://www.ofmodemsandmen.com/firmware/EM12GPAR01A21M4G_01.001.01.001.zip" title="Firmware EM12GPAR01A21M4G_01.001.01.001.zip">Firmware EM12GPAR01A21M4G_01.001.01.001.zip</a>
 
+<a href="https://drive.google.com/file/d/1cxDE2Hj8gT5Rowxg0rHuWru2G7hCEgln/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.003.01.003.zip">Firmware EM12GPAR01A21M4G_01.003.01.003.zip</a>
+
 <a href="https://drive.google.com/file/d/124LQr3dZvyNPtNkrwYIhrZfwgXYnYuIR/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.004.01.004.zip">Firmware EM12GPAR01A21M4G_01.004.01.004.zip</a>
 
 <a href="https://drive.google.com/file/d/1rSOZlNmB2hYXegyrTjYkDJ3V0mC40qsH/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_BETA1022_01.005.01.005.zip">Firmware EM12GPAR01A21M4G_BETA1022_01.005.01.005.zip</a>
 
+<a href="https://drive.google.com/file/d/1_s2tsLvVxjqN16O672-2sdwD6DZsmw9j/view?usp=sharing" title="Qnavigator_V1.6.9.1.zip">Qnavigator_V1.6.9.1</a>
+
 <a href="https://drive.google.com/file/d/1RxYTDpxjcLEUSPtSRoa5lkxE_8eJMAeb/view?usp=sharing" title="QFlash_V4.18">QFlash_V4.18</a>
 
 <a href="https://drive.google.com/file/d/1xVw5IBowlKn7HPqfyYfoZdBx1p5Xs7aU/view?usp=sharing" title="QCOM_V1.6">QCOM_V1.6</a>
+
+<a href="https://drive.google.com/file/d/1sg7HvKe5e66q7LfsqavEM9RiaKhCQjth/view?usp=sharing" title="QWinLog_V1.6.8_2021_0125.zip">QWinLog_V1.6.8_2021_0125</a>
 
 ## AT commands
 ``` bash
