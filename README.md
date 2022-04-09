@@ -26,6 +26,8 @@
 
 <a href="https://drive.google.com/file/d/1rSOZlNmB2hYXegyrTjYkDJ3V0mC40qsH/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_BETA1022_01.005.01.005.zip">Firmware EM12GPAR01A21M4G_BETA1022_01.005.01.005.zip</a>
 
+<a href="https://drive.google.com/file/d/1JC5TT5SDpaM8xacR_LXbMYE4JGbPCo7u/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.005.01.005.zip">Firmware EM12GPAR01A21M4G_01.005.01.005.zip</a>
+
 ## AT commands
 ``` bash
 #All bands:
