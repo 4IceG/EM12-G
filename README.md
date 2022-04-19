@@ -57,6 +57,9 @@ AT&F
 AT&F1
 AT+CFUN=1
 
+#Hard reset
+AT+CFUN=1,1
+
 AT+CFUN=0 - Turn off modem
 
 #Band_value - Band#
