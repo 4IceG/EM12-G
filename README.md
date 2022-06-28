@@ -5,7 +5,9 @@
 ## Toolz:
 <a href="https://drive.google.com/file/d/1z-ZPvb3Uh9V_uFDk8V3xW2ztFhnZPBgn/view?usp=sharing" title="Quectel_LTE_5G_Windows_USB_Driver_V2.2.4">Quectel_LTE_5G_Windows_USB_Driver_V2.2.4</a>
 
-<a href="https://www.easypaste.org/file/n2AotGpX/QFlash.V5.1.EN.zip?lang=pl" title="QFlash_V4.18">QFlash.V5.1.EN</a>
+<a href="https://www.easypaste.org/file/n2AotGpX/QFlash.V5.1.EN.zip?lang=pl" title="QFlash.V5.1.EN">QFlash.V5.1.EN</a>
+
+<a href="https://drive.google.com/file/d/1j3Wy_znL2ajt2_Rc4gejgoJRcp8ieQLm/view?usp=sharing" title="QFlash.V5.8.EN">QFlash.V5.8.EN</a>
 
 <a href="https://drive.google.com/file/d/1RxYTDpxjcLEUSPtSRoa5lkxE_8eJMAeb/view?usp=sharing" title="QFlash_V4.18">QFlash_V4.18</a>
 
@@ -15,7 +17,13 @@
 
 <a href="https://drive.google.com/file/d/1xVw5IBowlKn7HPqfyYfoZdBx1p5Xs7aU/view?usp=sharing" title="QCOM_V1.6">QCOM_V1.6</a>
 
+<a href="https://drive.google.com/file/d/1amE1TgwuLh0bgos1T6rQMphIOnv_f1_T/view?usp=sharing" title="Quectel_Linux_Android_SPRD_PCIE_Driver_V1.1.1">Quectel_Linux_Android_SPRD_PCIE_Driver_V1.1.1</a>
+
+<a href="https://drive.google.com/file/d/1V9zK4IWE0zuZxEpAr2JOm4AID0yZrm6h/view?usp=sharing" title="Quectel_Linux_PCIE_MHI_Driver_V1.3.3">Quectel_Linux_PCIE_MHI_Driver_V1.3.3</a>
+
 <a href="https://drive.google.com/file/d/1sg7HvKe5e66q7LfsqavEM9RiaKhCQjth/view?usp=sharing" title="QWinLog_V1.6.8_2021_0125.zip">QWinLog_V1.6.8_2021_0125</a>
+
+<a href="https://drive.google.com/file/d/1QsTLaBU464WsqzK6KvBrz1ux730Ft1dJ/view?usp=sharing" title="QFirehose_Linux_Android_V1.4.9">QFirehose_Linux_Android_V1.4.9</a>
 
 ## Firmware:
 <a href="http://www.ofmodemsandmen.com/firmware/EM12GPAR01A21M4G_01.001.01.001.zip" title="Firmware EM12GPAR01A21M4G_01.001.01.001.zip">Firmware EM12GPAR01A21M4G_01.001.01.001.zip</a>
