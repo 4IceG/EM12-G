@@ -3,6 +3,9 @@
 ![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/20201001.jpg)
 
 ## Toolz:
+<details>
+   <summary>Show me</summary>
+  
 <a href="https://drive.google.com/file/d/1z-ZPvb3Uh9V_uFDk8V3xW2ztFhnZPBgn/view?usp=sharing" title="Quectel_LTE_5G_Windows_USB_Driver_V2.2.4">Quectel_LTE_5G_Windows_USB_Driver_V2.2.4</a>
 
 <a href="https://www.easypaste.org/file/n2AotGpX/QFlash.V5.1.EN.zip?lang=pl" title="QFlash.V5.1.EN">QFlash.V5.1.EN</a>
@@ -25,22 +28,33 @@
 
 <a href="https://drive.google.com/file/d/1QsTLaBU464WsqzK6KvBrz1ux730Ft1dJ/view?usp=sharing" title="QFirehose_Linux_Android_V1.4.9">QFirehose_Linux_Android_V1.4.9</a>
 
+
+</details>
+
 ## Firmware:
-<a href="https://drive.google.com/file/d/1u5RvZH4TxvCf6mUTDGe8smJPMqyZ6rr9/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.009.01.009.zip">Firmware EM12GPAR01A21M4G_01.009.01.009.zip</a>
+<details>
+   <summary>Show me</summary>
 
-<a href="https://drive.google.com/file/d/12ZrR0ojtn1IITuzTVJ7m8j8sByLDSkdw/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.007.01.007.zip">Firmware EM12GPAR01A21M4G_01.007.01.007.zip</a>
+| Date | Version | Hint | Link |
+| --- | --- | --- | --- |
+| `2023-12-28` | *EM12GPAR01A21M4G_01.204.01.204* | `-` | <a href="https://drive.google.com/file/d/1t4VIvt4fgRwEN1SfrzXaNrmrqKKms3B1/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.202.01.202* | `-` | <a href="https://drive.google.com/file/d/15zlBsKhCQGmCyBmBclQcv3d2dnL3SUHW/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.009.01.009* | | <a href="https://drive.google.com/file/d/1u5RvZH4TxvCf6mUTDGe8smJPMqyZ6rr9/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.007.01.007* | | <a href="https://drive.google.com/file/d/12ZrR0ojtn1IITuzTVJ7m8j8sByLDSkdw/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.005.01.005* | | <a href="https://drive.google.com/file/d/1JC5TT5SDpaM8xacR_LXbMYE4JGbPCo7u/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_BETA1022_01.005.01.005* | | <a href="https://drive.google.com/file/d/1rSOZlNmB2hYXegyrTjYkDJ3V0mC40qsH/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.004.01.004* | | <a href="https://drive.google.com/file/d/124LQr3dZvyNPtNkrwYIhrZfwgXYnYuIR/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.003.01.003* | | <a href="https://drive.google.com/file/d/1cxDE2Hj8gT5Rowxg0rHuWru2G7hCEgln/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.001.01.001* | | <a href="http://www.ofmodemsandmen.com/firmware/EM12GPAR01A21M4G_01.001.01.001.zip">Download</a> |
 
-<a href="https://drive.google.com/file/d/1JC5TT5SDpaM8xacR_LXbMYE4JGbPCo7u/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.005.01.005.zip">Firmware EM12GPAR01A21M4G_01.005.01.005.zip</a>
 
-<a href="https://drive.google.com/file/d/1rSOZlNmB2hYXegyrTjYkDJ3V0mC40qsH/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_BETA1022_01.005.01.005.zip">Firmware EM12GPAR01A21M4G_BETA1022_01.005.01.005.zip</a>
+</details>
 
-<a href="https://drive.google.com/file/d/124LQr3dZvyNPtNkrwYIhrZfwgXYnYuIR/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.004.01.004.zip">Firmware EM12GPAR01A21M4G_01.004.01.004.zip</a>
-
-<a href="https://drive.google.com/file/d/1cxDE2Hj8gT5Rowxg0rHuWru2G7hCEgln/view?usp=sharing" title="Firmware EM12GPAR01A21M4G_01.003.01.003.zip">Firmware EM12GPAR01A21M4G_01.003.01.003.zip</a>
-
-<a href="http://www.ofmodemsandmen.com/firmware/EM12GPAR01A21M4G_01.001.01.001.zip" title="Firmware EM12GPAR01A21M4G_01.001.01.001.zip">Firmware EM12GPAR01A21M4G_01.001.01.001.zip</a>
 
 ## AT commands
+<details>
+   <summary>Show me</summary>
+  
 ``` bash
 #All bands:
 AT+QCFG="band",0,42000000003300185a,1
@@ -111,5 +125,8 @@ AT+CFUN=0 - Turn off modem
 20000000000000000 - LTE BC66
 400000000000000000 - LTE BC71
 ```
+
+</details>
+
 ![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/Quectel_EM12-G_LTE-A_Specification%20V1.1-1.png)
 ![](https://raw.githubusercontent.com/4IceG/EM12-G/main/Screens/Quectel_EM12-G_LTE-A_Specification%20V1.1-2.png)
