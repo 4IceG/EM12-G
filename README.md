@@ -37,15 +37,16 @@
 
 | Date | Version | Hint | Link |
 | --- | --- | --- | --- |
+| `2025-06-25` | *EM12GPAR01A21M4G_01.300.01.300* | `-` | <a href="https://drive.google.com/file/d/1Oml58ybjIJQCqLuEouoK6GbTc_aYOSDx/view?usp=sharing">Download</a> |
 | `2023-12-28` | *EM12GPAR01A21M4G_01.204.01.204* | `-` | <a href="https://drive.google.com/file/d/1t4VIvt4fgRwEN1SfrzXaNrmrqKKms3B1/view?usp=sharing">Download</a> |
 | `-` | *EM12GPAR01A21M4G_01.202.01.202* | `-` | <a href="https://drive.google.com/file/d/15zlBsKhCQGmCyBmBclQcv3d2dnL3SUHW/view?usp=sharing">Download</a> |
-| `-` | *EM12GPAR01A21M4G_01.009.01.009* | | <a href="https://drive.google.com/file/d/1u5RvZH4TxvCf6mUTDGe8smJPMqyZ6rr9/view?usp=sharing">Download</a> |
-| `-` | *EM12GPAR01A21M4G_01.007.01.007* | | <a href="https://drive.google.com/file/d/12ZrR0ojtn1IITuzTVJ7m8j8sByLDSkdw/view?usp=sharing">Download</a> |
-| `-` | *EM12GPAR01A21M4G_01.005.01.005* | | <a href="https://drive.google.com/file/d/1JC5TT5SDpaM8xacR_LXbMYE4JGbPCo7u/view?usp=sharing">Download</a> |
-| `-` | *EM12GPAR01A21M4G_BETA1022_01.005.01.005* | | <a href="https://drive.google.com/file/d/1rSOZlNmB2hYXegyrTjYkDJ3V0mC40qsH/view?usp=sharing">Download</a> |
-| `-` | *EM12GPAR01A21M4G_01.004.01.004* | | <a href="https://drive.google.com/file/d/124LQr3dZvyNPtNkrwYIhrZfwgXYnYuIR/view?usp=sharing">Download</a> |
-| `-` | *EM12GPAR01A21M4G_01.003.01.003* | | <a href="https://drive.google.com/file/d/1cxDE2Hj8gT5Rowxg0rHuWru2G7hCEgln/view?usp=sharing">Download</a> |
-| `-` | *EM12GPAR01A21M4G_01.001.01.001* | | <a href="http://www.ofmodemsandmen.com/firmware/EM12GPAR01A21M4G_01.001.01.001.zip">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.009.01.009* | `-` | <a href="https://drive.google.com/file/d/1u5RvZH4TxvCf6mUTDGe8smJPMqyZ6rr9/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.007.01.007* | `-` | <a href="https://drive.google.com/file/d/12ZrR0ojtn1IITuzTVJ7m8j8sByLDSkdw/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.005.01.005* |`-`| <a href="https://drive.google.com/file/d/1JC5TT5SDpaM8xacR_LXbMYE4JGbPCo7u/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_BETA1022_01.005.01.005* | `-` | <a href="https://drive.google.com/file/d/1rSOZlNmB2hYXegyrTjYkDJ3V0mC40qsH/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.004.01.004* | `-` | <a href="https://drive.google.com/file/d/124LQr3dZvyNPtNkrwYIhrZfwgXYnYuIR/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.003.01.003* | `-` | <a href="https://drive.google.com/file/d/1cxDE2Hj8gT5Rowxg0rHuWru2G7hCEgln/view?usp=sharing">Download</a> |
+| `-` | *EM12GPAR01A21M4G_01.001.01.001* | `-` | <a href="http://www.ofmodemsandmen.com/firmware/EM12GPAR01A21M4G_01.001.01.001.zip">Download</a> |
 
 
 </details>
