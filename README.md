@@ -26,6 +26,8 @@
 
 <a href="https://drive.google.com/file/d/1sg7HvKe5e66q7LfsqavEM9RiaKhCQjth/view?usp=sharing" title="QWinLog_V1.6.8_2021_0125.zip">QWinLog_V1.6.8_2021_0125</a>
 
+<a href="https://github.com/4IceG/RM520N-GL/blob/main/Toolz/QFirehose_Linux_and_Android_V1.5.zip" title="QFirehose_Linux_Android_V1.5">QFirehose V1.5</a>
+
 <a href="https://drive.google.com/file/d/1QsTLaBU464WsqzK6KvBrz1ux730Ft1dJ/view?usp=sharing" title="QFirehose_Linux_Android_V1.4.9">QFirehose_Linux_Android_V1.4.9</a>
 
 
